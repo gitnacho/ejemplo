@@ -14,7 +14,7 @@ limitaciones conforme a la licencia.
 */
 
 // El paquete utilcadenas contiene útiles funciones para trabajar con
-// cadenas.
+// cadenas de caracteres.
 package utilcadenas
 
 // Reverso invierte su argumento s dejándolo legible de izquierda

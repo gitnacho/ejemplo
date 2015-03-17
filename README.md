@@ -5,7 +5,7 @@ demuestran el lenguaje Go, bibliotecas y herramientas estándar.
 
 ## Los ejemplos
 
-### [Hola](hola/)([godoc](//godoc.org/github.com/gitnacho/ejemplo/hola)) y [utilcadenas](utilcadenas/)([godoc](//godoc.org /github.com/gitnacho/ejemplo/utilcadenas))
+### [Hola](hola/)([godoc](//godoc.org/github.com/gitnacho/ejemplo/hola)) y [utilcadenas](utilcadenas/)([godoc](//godoc.org/github.com/gitnacho/ejemplo/utilcadenas))
 
 	go get github.com/gitnacho/ejemplo/hola
 

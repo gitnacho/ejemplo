@@ -13,8 +13,8 @@ Consulta la licencia para el idioma específico que rige los permisos y
 limitaciones conforme a la licencia.
 */
 
-// yasalio es un servidor web que anuncia o no cuando una versión
-// particular de Go ya ha sido etiquetada.
+// yasalio es un servidor web que anuncia cuando una versión particular
+// de Go ya ha sido etiquetada o no.
 package main
 
 import (
