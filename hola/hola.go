@@ -21,5 +21,5 @@ import (
 )
 
 func main() {
-	fmt.Println(utilcadenas.Reverso("!solpmeje oG ,aloH¡"))
+	fmt.Println(utilcadenas.Reverso("!oG solpmeje ,aloH¡"))
 }
