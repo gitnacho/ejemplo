@@ -24,7 +24,7 @@ La biblioteca [utilcadenas](utilcadenas/) cubre:
 * La conversión entre cadena y []rune
 * Pruebas unitarias basadas en tablas ([testing](//golang.org/pkg/testing/))
 
-### [yasalio](yasalio/)([godoc](//godoc.org/github.com/gitnacho/ejemplo/yasalio))
+### [yasalio](yasalio/) [![GoDoc](https://godoc.org/github.com/gitnacho/ejemplo/yasalio?status.svg)](https://godoc.org/github.com/gitnacho/ejemplo/yasalio)
 
 	go get github.com/gitnacho/ejemplo/yasalio
 
