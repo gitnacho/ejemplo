@@ -5,7 +5,7 @@ demuestran el lenguaje Go, bibliotecas y herramientas estándar.
 
 ## Los ejemplos
 
-### [Hola](hola/)([godoc](//godoc.org/github.com/gitnacho/ejemplo/hola)) y [utilcadenas](utilcadenas/)([godoc](//godoc.org/github.com/gitnacho/ejemplo/utilcadenas))
+### [Hola](hola/) [![GoDoc](https://godoc.org/github.com/gitnacho/ejemplo/hola?status.svg)](https://godoc.org/github.com/gitnacho/ejemplo/hola) y [utilcadenas](utilcadenas/) [![GoDoc](https://godoc.org/github.com/gitnacho/ejemplo/utilcadenas?status.svg)](https://godoc.org/github.com/gitnacho/ejemplo/utilcadenas)
 
 	go get github.com/gitnacho/ejemplo/hola
 
@@ -47,7 +47,7 @@ Temas tratados:
 
 	goapp get github.com/gitnacho/ejemplo/appengine-hola
 
-Una aplicación "Hola, mundo" trivial App Engine destinada a utilizarse
+Una aplicación App Engine "Hola, mundo" trivial destinada a utilizarse
 como punto de partida para tu propio código.
 
 _Nota_: La herramienta `goapp` es parte del
