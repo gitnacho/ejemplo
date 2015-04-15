@@ -43,7 +43,7 @@ Temas tratados:
 * Inyección de dependencias
 * Tiempo ([time](//golang.org/pkg/time/))
 
-### [appengine-hola](appengine-hola/)([godoc](//godoc.org/github.com/gitnacho/ejemplo/appengine-hola))
+### [appengine-hola](appengine-hola/) [![GoDoc](https://godoc.org/github.com/gitnacho/ejemplo/appengine-hola?status.svg)](https://godoc.org/github.com/gitnacho/ejemplo/appengine-hola)
 
 	goapp get github.com/gitnacho/ejemplo/appengine-hola
 
